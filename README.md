@@ -23,6 +23,8 @@
 ### [Read the docs →](https://bun.com/docs)
 
 ## What is Bun?
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbun.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbun?ref=badge_shield)
+
 
 Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called `bun`.
 
@@ -413,3 +415,6 @@ Refer to the [Project > Contributing](https://bun.com/docs/project/contributing)
 ## License
 
 Refer to the [Project > License](https://bun.com/docs/project/licensing) page for information about Bun's licensing.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbun.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbun?ref=badge_large)
